@@ -1,0 +1,5 @@
+.env 
+wp-config.php
+wp-config-sample.php
+wp-config-docker.php
+node_modules
